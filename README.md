@@ -3,4 +3,4 @@ The goal is to practice recursion, memoization, tabulation, and space optimizati
 
 ## How to run
 git clone https://github.com/Razak6431/DP-Problems.git
-cd dp-problems
+cd Dp-Problems
