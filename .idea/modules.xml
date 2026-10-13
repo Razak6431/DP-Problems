@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/abc.iml" filepath="$PROJECT_DIR$/abc.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/DpProblems.iml" filepath="$PROJECT_DIR$/DpProblems.iml" />
+>>>>>>> afbaad2 (0/1 knapsack problem added)
     </modules>
   </component>
 </project>
